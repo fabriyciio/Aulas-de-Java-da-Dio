@@ -14,8 +14,6 @@ public class Ex1_NomeEIdade {
             if (nome.equals("0")) break;
 
 
-
-
             System.out.println("Idade:");
             idade = scan.nextInt();
         }
